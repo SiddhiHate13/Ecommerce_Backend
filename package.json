@@ -18,5 +18,8 @@
     "nodemailer": "^6.9.14",
     "nodemon": "^3.1.4"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
 }
